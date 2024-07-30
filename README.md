@@ -9,7 +9,8 @@
 
 - **Você pode entrar em contato comigo por:**
 - 00001115924424sp@al.educacao.sp.gov.br
+ 
 
--![](https://tenor.com/pt-BR/view/deadpool-gif-19292832)
+![](https://media1.tenor.com/m/Zt9hQNkPn6oAAAAC/deadpool.gif)
   
 

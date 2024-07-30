@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @EdOBrito
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🥵Estou sendo obrigado a fazer isso, mas seja bem vindo 🥶
 
-<!---
-EdOBrito/EdOBrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Meu nome é: **Eduardo**
+
+- **Estudo no Antônio FLorentino**😢
+- **Sou estudante de Alura**🥶
+- **Usarei esse arquivo para compartilhar projetos**😎
+- **O Gerson mandou fazer isso**😢
+
+- **Você pode entrar em contato comigo por:**
+- 00001115924424sp@al.educacao.sp.gov.br
+
+  ![](https://tenor.com/pt-BR/view/deadpool-gif-19292832)
+  
+
